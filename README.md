@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy Diego Romero
 
+## Acerca de mí
+
 Soy Ingeniero en Informática, dedicado al desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
 
 ## 🚀 Proyectos destacados
 - 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías que utilizo
 - Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, Tailwind
 - Backend: PHP, Laravel, ASP.NET, C#, MySQL, Oracle, SQL Server
 - Otros: Git, Trello
