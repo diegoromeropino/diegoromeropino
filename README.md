@@ -27,7 +27,7 @@ Soy Ingeniero en Informática, con una experiencia significativa en el desarroll
 ## 🛠️ Habilidades técnicas
 - Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, Tailwind
 - Backend: PHP, Laravel, ASP.NET, C#, MySQL, Oracle, SQL Server
-- Otras: Git, Trello
+- Otras: Git, Postman, Trello
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/diego-romero-672350237)
