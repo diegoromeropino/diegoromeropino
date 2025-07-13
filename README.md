@@ -24,12 +24,12 @@ Soy Ingeniero en Informática, dedicado al desarrollo de aplicaciones web, me ap
 ## 🚀 Proyectos destacados
 - 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Habilidades técnicas
 - Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, Tailwind
 - Backend: PHP, Laravel, ASP.NET, C#, MySQL, Oracle, SQL Server
 - Otros: Git, Trello
 
-## 📫 ¿Dónde encontrarme?
+## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/diego-romero-672350237)
 
 
