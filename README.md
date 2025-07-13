@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mí
 
-Soy Ingeniero en Informática, dedicado al desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
+Soy Ingeniero en Informática, con más de 3 años de experiencia en el desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
 
 ## 🚀 Proyectos destacados
 - 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
