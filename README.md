@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mí
 
-Soy Ingeniero en Informática, con más de 3 años de experiencia en el desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
+Soy Ingeniero en Informática, con una experiencia significativa en el desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
 
 ## 🚀 Proyectos destacados
 - 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
@@ -27,7 +27,7 @@ Soy Ingeniero en Informática, con más de 3 años de experiencia en el desarrol
 ## 🛠️ Habilidades técnicas
 - Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, Tailwind
 - Backend: PHP, Laravel, ASP.NET, C#, MySQL, Oracle, SQL Server
-- Otros: Git, Trello
+- Otras: Git, Trello
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/diego-romero-672350237)
