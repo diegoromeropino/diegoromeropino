@@ -25,7 +25,7 @@ Soy Ingeniero en Informática, con una experiencia significativa en el desarroll
 - 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
 
 ## 🛠️ Habilidades técnicas
-- Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, Tailwind
+- Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, TailwindCSS
 - Backend: PHP, Laravel, ASP.NET, C#, MySQL, Oracle, SQL Server
 - Otras: Git, Postman, Trello
 
