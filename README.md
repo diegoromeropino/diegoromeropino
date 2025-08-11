@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 Soy Ingeniero en Informática, con una experiencia significativa en el desarrollo de aplicaciones web, me apasiona crear soluciones digitales funcionales y visualmente atractivas.
 
 ## 🚀 Proyectos destacados
-- 📝 [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
+- [Inventario informático hospitalario] – Laravel, Bootstrap, HTML, CSS, JQuery
+
+## :computer: Otros Proyectos
+- [Calculadora] – Vue.js, Taildwind Css, HTML, CSS
 
 ## 🛠️ Habilidades técnicas
 - Frontend: JS, JQuery, Vue.js, HTML, CSS, Bootstrap, TailwindCSS
